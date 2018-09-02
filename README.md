@@ -1,4 +1,4 @@
-# BrianfuckCompiler
+# BrainfuckCompiler
 A primary brainfuck compiler based on python
 
 # How to use
